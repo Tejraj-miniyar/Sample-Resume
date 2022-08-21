@@ -1,0 +1,152 @@
+*{
+    font-family: calibri;
+}
+
+#header{
+    text-align: center;
+    border: solid;
+    margin-left: 550px;
+    margin-right:550px;
+    background-color: rgb(166, 219, 219);
+
+}
+.border1{
+    border: solid;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    
+}
+.name{
+    text-indent: 6px;
+    line-height: 3px;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+.degree{
+    margin-left: 10px;
+
+}
+#link{
+    color: blue;
+}
+#image{
+    height: 170px;
+    width: 140px;
+    margin-left: 750px;
+   margin-top: -1000px;
+   margin-bottom:32px;
+    
+}
+.objective{
+    text-indent: 6px;
+    font-weight:bolder;
+    font-size: 25px;
+    background-color: #ADD8E6;
+    margin-left: 10px;
+    margin-right: 10px;  
+
+}
+#objectivedesc{
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+    font-family: calibri;
+
+}
+table,th,td,tr{
+    border: solid;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 110px;
+    margin-right: 100px;
+    height: 30px;
+}
+td:first-child {
+    font-weight: bold;
+  }
+  td:last-child{
+    font-weight: bold;
+  }
+  #cg{
+    font-weight: 500;
+  }
+#skills{
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+}
+#language{
+    word-spacing: 80px;
+    font-weight: bold;
+}
+#language1{
+    word-spacing: 121px;
+    font-weight: bold;
+}
+#colon{
+    word-spacing: 80px;
+    font-weight: bold;
+}
+#language3{
+    word-spacing: 199px;
+    font-weight: bold;
+}
+#colon2{
+    word-spacing: 80px;
+    font-weight: bold;
+}
+#language4{
+    word-spacing: 203px;
+    font-weight: bold;
+}
+#colon3{
+    word-spacing: 80px;
+    font-weight: bold;
+}
+.projects{
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+    font-weight: bold;  
+}
+#one{
+    list-style-type: disc;
+    margin-left: 50px;
+    font-size: 20px;
+    padding-top: 7px;
+    margin-right: 80px;
+}
+.projects1{
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+
+}
+#date{
+    text-indent: 6px;
+    font-weight:bold;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-right: 10px;
+    padding-top: 100px;
+}
+#name{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 350px;
+}
+h3{
+    visibility: hidden;
+}
+.border2{
+    border: solid;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: aliceblue;
+}
+
+  
+
